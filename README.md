@@ -1,14 +1,19 @@
 https://astroid-destroyers.github.io/Milestone1/Wiki.html
 
 HealthTracker
+
 Group: Astroid Destroyers
+
 By: Novali Plascencia, Emilia Mahmoodi, Andy Moughalian, Roee Palmon, and Christian Rusanovsky
 
 What’s it about:
+
 	To make a website where people can create personalized diet and workout based on their body composition and information based on AI responses. For additional features we can make it more accessible or user friendly. We can add features like choosing if they are vegetarian or diet preferences, workout preferences and how many days they can work out in a week and their goal. The additional features are good to have, but the core idea. Or an app for personalized diets and workout plans based on AI.
 
 Main Goal:
+
 Maintaining a healthy lifestyle is difficult because most people struggle with:
+
    • Knowing what diet best fits their body composition, preferences, and goals. 
    • Finding workouts that match their schedule, fitness level, and dietary restrictions. 
    • Staying consistent without personalized feedback or adjustments.
