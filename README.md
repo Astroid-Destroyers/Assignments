@@ -8,7 +8,7 @@ By: Novali Plascencia, Emilia Mahmoodi, Andy Moughalian, Roee Palmon, and Christ
 
 What’s it about:
 
-	To make a website where people can create personalized diet and workout based on their body composition and information based on AI responses. For additional features we can make it more accessible or user friendly. We can add features like choosing if they are vegetarian or diet preferences, workout preferences and how many days they can work out in a week and their goal. The additional features are good to have, but the core idea. Or an app for personalized diets and workout plans based on AI.
+To make a website where people can create personalized diet and workout based on their body composition and information based on AI responses. For additional features we can make it more accessible or user friendly. We can add features like choosing if they are vegetarian or diet preferences, workout preferences and how many days they can work out in a week and their goal. The additional features are good to have, but the core idea. Or an app for personalized diets and workout plans based on AI.
 
 Main Goal:
 
